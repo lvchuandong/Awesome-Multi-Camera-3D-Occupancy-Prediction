@@ -1,7 +1,7 @@
 # Awesome-Multi-Camera-3D-Occupancy-Prediction
 
 <div align=center>
-<img src="./imgs/occupanc_1.gif" width="800px">
+<img src="./imgs/occupanc_1.gif" width="600px">
 </div>
 
 ### CVPR
@@ -14,21 +14,21 @@
 
 ### ICCV
 #### 2023
-+ SurroundOcc [[paper](https://arxiv.org/abs/2303.09551)] [[Github](https://github.com/weiyithu/SurroundOcc)][[Zhihu](https://zhuanlan.zhihu.com/p/618202310)]
++ SurroundOcc [[paper](https://arxiv.org/abs/2303.09551)] [[Github](https://github.com/weiyithu/SurroundOcc)] [[Zhihu](https://zhuanlan.zhihu.com/p/618202310)]
 
 ### Arxiv
-+ SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction[[paper](https://arxiv.org/abs/2311.12754)][[Github](https://github.com/huang-yh/SelfOcc)]
++ SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction[[paper](https://arxiv.org/abs/2311.12754)] [[Github](https://github.com/huang-yh/SelfOcc)]
 + SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints[[paper](https://arxiv.org/abs/2311.11371)]
 + FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin[[paper](https://arxiv.org/abs/2311.12058)]
 + OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection[[paper](https://arxiv.org/abs/2309.08504)]
 + OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving[[paper](https://arxiv.org/abs/2309.11011)]
 + SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving[[paper](https://arxiv.org/abs/2309.10527)]
-+ RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision[[paper](https://arxiv.org/abs/2309.09502)][[Github](https://github.com/pmj110119/RenderOcc)]
-+ PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction[[paper](https://arxiv.org/abs/2308.16896)][[Github](https://github.com/wzzheng/PointOcc)]
-+ PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation[[paper](https://arxiv.org/abs/2306.10013)][[Github](https://github.com/Robertwyq/PanoOcc)]
++ RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision[[paper](https://arxiv.org/abs/2309.09502)] [[Github](https://github.com/pmj110119/RenderOcc)]
++ PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction[[paper](https://arxiv.org/abs/2308.16896)] [[Github](https://github.com/wzzheng/PointOcc)]
++ PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation[[paper](https://arxiv.org/abs/2306.10013)] [[Github](https://github.com/Robertwyq/PanoOcc)]
 + OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios[[paper](https://arxiv.org/abs/2307.10934)]
-+ Learning Occupancy for Monocular 3D Object Detection[[paper](https://arxiv.org/abs/2305.15694)][[Github](https://github.com/spengliang/occupancym3d)]
-+ UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction[[paper](https://arxiv.org/abs/2305.18829)][[Github](https://github.com/chaytonmin/UniScene)]
++ Learning Occupancy for Monocular 3D Object Detection[[paper](https://arxiv.org/abs/2305.15694)] [[Github](https://github.com/spengliang/occupancym3d)]
++ UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction[[paper](https://arxiv.org/abs/2305.18829)] [[Github](https://github.com/chaytonmin/UniScene)]
 + OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network [[paper](https://arxiv.org/abs/2302.13540)] [[Github](https://github.com/megvii-research/OccDepth)]
 + SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2303.09551)] [[Github](https://github.com/weiyithu/SurroundOcc)]
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
@@ -52,10 +52,10 @@
 + The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)]
 
 ### Tesla's Occupancy Networks
-+  A Look at Tesla's Occupancy Networks [[CVPR2022 workshop](https://www.youtube.com/watch?v=KC8e0oTFUcw)][[Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&t=4403s)][[Video](https://youtu.be/Nu3LUB8wolc?si=FARyGHEqbY94yKuN)]
++  A Look at Tesla's Occupancy Networks [[CVPR2022 workshop](https://www.youtube.com/watch?v=KC8e0oTFUcw)] [[Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&t=4403s)] [[Video](https://youtu.be/Nu3LUB8wolc?si=FARyGHEqbY94yKuN)]
 
 <div align=center>
-<img src="./imgs/tesla.png" width="800px">
+<img src="./imgs/tesla.png" width="600px">
 </div>
 
 ### Blog
@@ -69,8 +69,8 @@
 + Poisson reconstruction [[Github](https://github.com/weiyithu/SurroundOcc/blob/main/tools/generate_occupancy_with_own_data/process_your_own_data.py)]
 
 ### Pre-training
-+ Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction [[paper](https://arxiv.org/abs/2305.18829)][[Github](https://github.com/chaytonmin/Occ-BEV)]
-+ Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Occupancy-MAE)]
++ Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction [[paper](https://arxiv.org/abs/2305.18829)] [[Github](https://github.com/chaytonmin/Occ-BEV)]
++ Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders [[paper](https://arxiv.org/abs/2206.09900)] [[Github](https://github.com/chaytonmin/Occupancy-MAE)]
 
 ## Acknowledgement
 + [Awesome-Occupancy-Prediction-Multi-Cameras](https://github.com/chaytonmin/Awesome-Surrounding-Semantic-Occupancy-Prediction/tree/main)
