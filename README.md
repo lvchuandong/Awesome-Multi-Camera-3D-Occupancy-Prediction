@@ -51,6 +51,10 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[code](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2024.05] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers [[paper](https://arxiv.org/abs/2405.05173)]
++ [2024.05] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective [[paper](https://arxiv.org/abs/2405.05173)]
++ [2024.04] OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2404.15014)]
++ [2024.04] OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks [[paper](https://arxiv.org/abs/2404.14027)]
 + [2024.04] SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2404.09502)] [[github](https://github.com/VISION-SJTU/SparseOcc)]
 + [2024.04] Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2404.04561)] [[code](https://github.com/Rorisis/Co-Occ)] [[website](https://rorisis.github.io/Co-Occ_project-page/)]
 + [2024.04] Unsupervised Occupancy Learning from Sparse Point Cloud [[paper](https://arxiv.org/abs/2404.02759)]
@@ -113,12 +117,13 @@
 + [2023.12] ML3DOP: A Multi-Camera and LiDAR Dataset for 3D Occupancy Perception[[paper](https://ieeexplore.ieee.org/abstract/document/10363646)] [[github](https://github.com/lvchuandong/ML3DOP)]
 
 ### Survey
++ [2024.05] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective [[paper](https://arxiv.org/abs/2405.05173)]
 + [2024.05] Vision-based 3D occupancy prediction in autonomous driving: a review and outlook [[paper](https://arxiv.org/abs/2405.02595)]
-+ [2023.03] Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review [[paper](https://arxiv.org/abs/2303.01212)]
-
 <div align=center>
 <img src="./imgs/timeline.png" width="600px">
 </div>
+
++ [2023.03] Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review [[paper](https://arxiv.org/abs/2303.01212)]
 
 ### Pre-training
 + [2023.05] Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction [[paper](https://arxiv.org/abs/2305.18829)] [[github](https://github.com/chaytonmin/Occ-BEV)]
@@ -149,3 +154,4 @@
 + [Awesome-3D-Occupancy-Prediction](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction)
 + [Awesome-occupancy-perception](https://github.com/autodriving-heart/Awesome-occupancy-perception)
 + [awesome-Occupancy-research](https://github.com/keithAND2020/awesome-Occupancy-research)
++ [3D-Occupancy-Perception](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)
