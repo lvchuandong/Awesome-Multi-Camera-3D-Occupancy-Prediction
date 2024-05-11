@@ -121,7 +121,7 @@
 + [2023.12] ML3DOP: A Multi-Camera and LiDAR Dataset for 3D Occupancy Perception[[paper](https://ieeexplore.ieee.org/abstract/document/10363646)] [[github](https://github.com/lvchuandong/ML3DOP)]
 
 ### Survey
-+ [2024.05] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective [[paper](https://arxiv.org/abs/2405.05173)]
++ [2024.05] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective [[paper](https://arxiv.org/abs/2405.05173)] [[github](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)]
 + [2024.05] Vision-based 3D occupancy prediction in autonomous driving: a review and outlook [[paper](https://arxiv.org/abs/2405.02595)]
 <div align=center>
 <img src="./imgs/timeline.png" width="600px">
@@ -153,7 +153,7 @@
 + multi-frame fusion [[github](https://github.com/FANG-MING/occupancy-for-nuscenes/blob/main/data_converter.py)]
 + Poisson reconstruction [[github](https://github.com/weiyithu/SurroundOcc/blob/main/tools/generate_occupancy_with_own_data/process_your_own_data.py)]
 
-## Related Projects
+### Related Projects
 + [Awesome-Occupancy-Prediction-Multi-Cameras](https://github.com/chaytonmin/Awesome-Surrounding-Semantic-Occupancy-Prediction/tree/main)
 + [Awesome-3D-Occupancy-Prediction](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction)
 + [Awesome-occupancy-perception](https://github.com/autodriving-heart/Awesome-occupancy-perception)
