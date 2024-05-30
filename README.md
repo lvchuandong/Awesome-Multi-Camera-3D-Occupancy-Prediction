@@ -54,6 +54,11 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2024.05] GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2405.17037)]
++ [2024.05] BDC-Occ: Binarized Deep Convolution Unit For Binarized Occupancy Network [[paper](https://arxiv.org/abs/2405.17429)]
++ [2024.05] RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar [[paper](https://arxiv.org/abs/2405.14014)]
++ [2024.05] Label-efficient Semantic Scene Completion with Scribble Annotations [[paper](https://arxiv.org/abs/2405.15170)]
++ [2024.05] Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation [[paper](https://arxiv.org/abs/2405.16099)]
 + [2024.05] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers [[paper](https://arxiv.org/abs/2405.05173)]
 + [2024.05] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective [[paper](https://arxiv.org/abs/2405.05173)]
 + [2024.04] OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2404.15014)]
