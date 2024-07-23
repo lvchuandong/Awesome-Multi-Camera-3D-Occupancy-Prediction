@@ -34,6 +34,17 @@
 + [2023.04] OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2304.05316)] [[github](https://github.com/zhangyp15/OccFormer)]
 + [2023.03] SurroundOcc [[paper](https://arxiv.org/abs/2303.09551)] [[github](https://github.com/weiyithu/SurroundOcc)] [[zhihu](https://zhuanlan.zhihu.com/p/618202310)]
 
+### ECCV
+#### 2024
++ [2024.07] Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion [[paper](https://arxiv.org/abs/2407.02077)] [[github](https://github.com/Arlo0o/HTCL)]
++ [2024.07] VEON: Vocabulary-Enhanced Occupancy Prediction [[paper](https://arxiv.org/abs/2407.12294)]
++ [2024.07] Occupancy as Set of Points [[paper](https://arxiv.org/abs/2407.04049)] [[github](https://github.com/hustvl/osp)]
++ [2024.05] GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2405.17037)] [[github](https://github.com/huang-yh/GaussianFormer)]
++ [2024.05] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers [[paper](https://arxiv.org/abs/2405.05173)] [[github](https://github.com/ViewFormerOcc/ViewFormer-Occ)]
++ [2024.04] OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2404.15014)] [[github](https://occgen-ad.github.io/)]
++ [2023.12] Fully Sparse 3D Panoptic Occupancy Prediction [[paper](https://arxiv.org/abs/2312.17118)] [[github](https://github.com/MCG-NJU/SparseOcc)]
++ [2023.11] OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving [[paper](https://arxiv.org/pdf/2311.16038.pdf)] [[github](https://github.com/wzzheng/OccWorld)]
+
 ### AAAI
 #### 2024
 + [2023.12] RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation [[paper](https://arxiv.org/abs/2312.11829)]
@@ -54,14 +65,20 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
-+ [2024.05] GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2405.17037)]
++ [2024.07] Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction [[paper](https://arxiv.org/abs/2407.07587)] [[github](https://eliliu2233.github.io/letoccflow/)]
++ [2024.07] Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement [[paper](https://arxiv.org/abs/2407.13155)]
++ [2024.07] Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion [[paper](https://arxiv.org/abs/2407.02077)] [[github](https://github.com/Arlo0o/HTCL)]
++ [2024.07] VEON: Vocabulary-Enhanced Occupancy Prediction [[paper](https://arxiv.org/abs/2407.12294)]
++ [2024.07] Occupancy as Set of Points [[paper](https://arxiv.org/abs/2407.04049)] [[github](https://github.com/hustvl/osp)]
++ [2024.06] EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network [[paper](https://arxiv.org/abs/2406.07042)]
++ [2024.05] GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2405.17037)] [[github](https://github.com/huang-yh/GaussianFormer)]
 + [2024.05] BDC-Occ: Binarized Deep Convolution Unit For Binarized Occupancy Network [[paper](https://arxiv.org/abs/2405.17429)]
 + [2024.05] RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar [[paper](https://arxiv.org/abs/2405.14014)]
 + [2024.05] Label-efficient Semantic Scene Completion with Scribble Annotations [[paper](https://arxiv.org/abs/2405.15170)]
 + [2024.05] Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation [[paper](https://arxiv.org/abs/2405.16099)]
-+ [2024.05] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers [[paper](https://arxiv.org/abs/2405.05173)]
++ [2024.05] ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers [[paper](https://arxiv.org/abs/2405.05173)] [[github](https://github.com/ViewFormerOcc/ViewFormer-Occ)]
 + [2024.05] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective [[paper](https://arxiv.org/abs/2405.05173)]
-+ [2024.04] OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2404.15014)]
++ [2024.04] OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2404.15014)] [[github](https://occgen-ad.github.io/)]
 + [2024.04] OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks [[paper](https://arxiv.org/abs/2404.14027)]
 + [2024.04] SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2404.09502)] [[github](https://github.com/VISION-SJTU/SparseOcc)]
 + [2024.04] Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2404.04561)] [[github](https://github.com/Rorisis/Co-Occ)] [[website](https://rorisis.github.io/Co-Occ_project-page/)]
