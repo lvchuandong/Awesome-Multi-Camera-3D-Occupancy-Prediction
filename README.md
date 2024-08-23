@@ -52,6 +52,7 @@
 
 ### Journal
 + [2023.12] 3DOPFormer: 3D Occupancy Perception from Multi-Camera Images with Directional and Distance Enhancement [[paper](https://ieeexplore.ieee.org/abstract/document/10363646)] [[github](https://github.com/lvchuandong/ML3DOP)] [IEEE Transactions on Intelligent Vehicles]
++ [2024.06] HybridOcc: NeRF Enhanced Transformer-Based Multi-Camera 3D Occupancy Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/10564099)] [IEEE Robotics and Automation Letters]
 
 ### ICRA
 #### 2024
@@ -65,6 +66,13 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2024.08] GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting [[paper](https://arxiv.org/abs/2408.11447)] [[github](https://github.com/GANWANSHUI/GaussianOcc)]
++ [2024.08] MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering [[paper](https://arxiv.org/abs/2408.11464)] [[github](https://github.com/Hub-Tian/MambaOcc)]
++ [2024.08] Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance [[paper](https://arxiv.org/abs/2408.11559)]
++ [2024.08] HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2408.09104)]
++ [2024.08] OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)]
++ [2024.07] LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering [[paper](https://arxiv.org/abs/2407.17310)]
++ [2024.07] LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera [[paper](https://arxiv.org/abs/2407.16197)] [[github](https://hr-zju.github.io/LiCROcc/)]
 + [2024.07] Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction [[paper](https://arxiv.org/abs/2407.07587)] [[github](https://eliliu2233.github.io/letoccflow/)]
 + [2024.07] Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement [[paper](https://arxiv.org/abs/2407.13155)]
 + [2024.07] Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion [[paper](https://arxiv.org/abs/2407.02077)] [[github](https://github.com/Arlo0o/HTCL)]
