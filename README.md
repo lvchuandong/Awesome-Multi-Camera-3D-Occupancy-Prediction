@@ -36,6 +36,8 @@
 
 ### ECCV
 #### 2024
++ [2024.09] CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2409.13430)] [[github](https://github.com/Tsinghua-MARS-Lab/CVT-Occ)]
++ [2024.09] RenderWorld: World Model with Self-Supervised 3D Label [[paper](https://arxiv.org/abs/2409.11356)]
 + [2024.07] Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion [[paper](https://arxiv.org/abs/2407.02077)] [[github](https://github.com/Arlo0o/HTCL)]
 + [2024.07] VEON: Vocabulary-Enhanced Occupancy Prediction [[paper](https://arxiv.org/abs/2407.12294)]
 + [2024.07] Occupancy as Set of Points [[paper](https://arxiv.org/abs/2407.04049)] [[github](https://github.com/hustvl/osp)]
@@ -66,6 +68,12 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2024.09] Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2409.07972)] [[github](https://github.com/yanzq95/DHD)]
++ [2024.09] UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height [[paper](https://arxiv.org/abs/2409.11160)]
++ [2024.09] Online Diffusion-Based 3D Occupancy Prediction at the Frontier with Probabilistic Map Reconciliation [[paper](https://arxiv.org/abs/2409.10681)]
++ [2024.09] OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [[paper](https://arxiv.org/abs/2409.03272)]
++ [2024.08] AdaOcc: Adaptive-Resolution Occupancy Prediction [[paper](https://arxiv.org/abs/2408.13454)]
++ [2024.08] Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion [[paper](https://arxiv.org/abs/2408.14846)]
 + [2024.08] GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting [[paper](https://arxiv.org/abs/2408.11447)] [[github](https://github.com/GANWANSHUI/GaussianOcc)]
 + [2024.08] MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering [[paper](https://arxiv.org/abs/2408.11464)] [[github](https://github.com/Hub-Tian/MambaOcc)]
 + [2024.08] Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance [[paper](https://arxiv.org/abs/2408.11559)]
