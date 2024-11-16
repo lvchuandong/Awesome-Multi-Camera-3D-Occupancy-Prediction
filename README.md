@@ -68,6 +68,16 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2024.11] ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction [[paper](https://arxiv.org/abs/2411.07725)] [[github](https://github.com/cdb342/ALOcc)]
++ [2024.11] OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2411.03696)]
++ [2024.10] TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement [[paper](https://arxiv.org/abs/2410.11228)] [[github](https://github.com/VDIGPKU/TEOcc)]
++ [2024.10] ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera [[paper](https://arxiv.org/abs/2410.11019)]
++ [2024.10] SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs [[paper](https://arxiv.org/abs/2410.00337)]
++ [2024.10] WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2410.15792)] [[github](https://github.com/LedKashmir/WildOcc)]
++ [2024.09] OPUS: Occupancy Prediction Using a Sparse Set [[paper](https://arxiv.org/abs/2409.19987)] [[github](https://github.com/jmwang0117/OccRWKV)]
++ [2024.09] OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity [[paper](https://arxiv.org/abs/2409.19987)] [[github](https://github.com/jmwang0117/OccRWKV)]
++ [2024.09] FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving [[paper](https://arxiv.org/abs/2409.15841)]
++ [2024.09] DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2409.19972)] [[github](https://github.com/AlphaPlusTT/DAOcc)]
 + [2024.09] Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2409.07972)] [[github](https://github.com/yanzq95/DHD)]
 + [2024.09] UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height [[paper](https://arxiv.org/abs/2409.11160)]
 + [2024.09] Online Diffusion-Based 3D Occupancy Prediction at the Frontier with Probabilistic Map Reconciliation [[paper](https://arxiv.org/abs/2409.10681)]
