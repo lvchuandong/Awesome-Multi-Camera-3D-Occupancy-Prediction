@@ -75,6 +75,10 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2024.11] Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting [[paper](https://arxiv.org/abs/2411.14169)]
++ [2024.11] LeC2O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes [[paper](https://arxiv.org/abs/2411.11374)]
++ [2024.11] GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving [[paper](https://arxiv.org/abs/2411.12177)] [[github](https://github.com/Public-BOTs/GaussianPretrain)]
++ [2024.11] Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation [[paper](https://arxiv.org/abs/2411.12177)] [[github](https://github.com/ICEORY/REO)]
 + [2024.11] ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction [[paper](https://arxiv.org/abs/2411.07725)] [[github](https://github.com/cdb342/ALOcc)]
 + [2024.11] OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2411.03696)]
 + [2024.10] TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement [[paper](https://arxiv.org/abs/2410.11228)] [[github](https://github.com/VDIGPKU/TEOcc)]
