@@ -78,6 +78,7 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2024.12] MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation [[paper](https://arxiv.org/abs/2412.20480)]
 + [2024.12] GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting [[paper](https://arxiv.org/abs/2412.14579)]
 + [2024.12] An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training [[paper](https://arxiv.org/abs/2412.13772)]
 + [2024.12] GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding [[paper](https://arxiv.org/abs/2412.13193)] [[github](https://github.com/hustvl/GaussTR)]
