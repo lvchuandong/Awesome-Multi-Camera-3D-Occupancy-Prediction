@@ -5,6 +5,7 @@
 </div>
 
 ### CVPR
+#### 2025
 #### 2024
 + [2024.05] DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving [[paper](https://arxiv.org/abs/2405.04390)]
 + [2024.04] SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2404.09502)] [[github](https://github.com/VISION-SJTU/SparseOcc)]
