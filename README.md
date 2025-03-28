@@ -73,7 +73,7 @@
 ### ICLR
 #### 2025
 + [2025.02] OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework [[paper](https://arxiv.org/abs/2502.15180)] [[github](https://github.com/JLChen-C/OccProphet)]
-+ [2025.02] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving [[paper](https://arxiv.org/abs/2502.07309)]
++ [2025.02] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving [[paper](https://arxiv.org/abs/2502.07309)] [[github](https://github.com/getterupper/PreWorld)]
 
 
 ### ICRA
@@ -190,7 +190,7 @@
 + [2024.03] FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird’s-Eye View and Perspective View [[paper](https://arxiv.org/pdf/2403.02710v1.pdf)]
 + [2024.03] OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction [[paper](https://arxiv.org/html/2403.01644v1)] [[github](https://github.com/DanielMing123/OCCFusion)]
 + [2024.02] OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction [[paper](https://arxiv.org/pdf/2402.18140.pdf)]
-+ [2024.02] OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow [[paper](https://arxiv.org/abs/2402.12792)]
++ [2024.02] OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow [[paper](https://arxiv.org/abs/2402.12792)] [[github](https://github.com/boschresearch/OccFlowNet)]
 + [2024.02] SDGE: Stereo Guided Depth Estimation for 360∘ Camera Sets [[paper](https://arxiv.org/pdf/2402.11791.pdf)]
 + [2024.01] S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2401.13785.pdf)]
 + [2024.01] InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2401.12422.pdf)] [[github](https://github.com/DanielMing123/InverseMatrixVT3D)]
