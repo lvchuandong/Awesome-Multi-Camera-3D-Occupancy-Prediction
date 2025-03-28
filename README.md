@@ -8,6 +8,7 @@
 #### 2025
 + [2025.03] 3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation [[paper](https://arxiv.org/abs/2503.15185)] [[github](https://kuai-lab.github.io/cvpr2025protoocc/)]
 + [2025.03] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction [[github](https://github.com/lzzzzzm/STCOcc)]
++ [2024.08] OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)] [[github](https://github.com/USTCLH/OccMamba)]
 #### 2024
 + [2024.05] DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving [[paper](https://arxiv.org/abs/2405.04390)]
 + [2024.04] SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2404.09502)] [[github](https://github.com/VISION-SJTU/SparseOcc)]
@@ -158,7 +159,7 @@
 + [2024.08] MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering [[paper](https://arxiv.org/abs/2408.11464)] [[github](https://github.com/Hub-Tian/MambaOcc)]
 + [2024.08] Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance [[paper](https://arxiv.org/abs/2408.11559)]
 + [2024.08] HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2408.09104)]
-+ [2024.08] OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)]
++ [2024.08] OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)] [[github](https://github.com/USTCLH/OccMamba)]
 + [2024.07] LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering [[paper](https://arxiv.org/abs/2407.17310)]
 + [2024.07] LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera [[paper](https://arxiv.org/abs/2407.16197)] [[github](https://hr-zju.github.io/LiCROcc/)]
 + [2024.07] Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction [[paper](https://arxiv.org/abs/2407.07587)] [[github](https://eliliu2233.github.io/letoccflow/)]
