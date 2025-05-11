@@ -6,6 +6,7 @@
 
 ### CVPR
 #### 2025
++ [2025.04] GDFusion: Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2504.12959)] [[github](https://github.com/cdb342/GDFusion)]
 + [2025.03] 3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation [[paper](https://arxiv.org/abs/2503.15185)] [[github](https://kuai-lab.github.io/cvpr2025protoocc/)]
 + [2025.03] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction [[github](https://github.com/lzzzzzm/STCOcc)]
 + [2024.12] GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding [[paper](https://arxiv.org/abs/2412.13193)] [[github](https://github.com/hustvl/GaussTR)]
@@ -18,7 +19,8 @@
 + [2024.03] SemCity: Semantic Scene Generation with Triplane Diffusion [[paper](https://arxiv.org/abs/2403.07773)] [[github](https://github.com/zoomin-lee/SemCity)]
 + [2024.02] Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles [[paper](https://arxiv.org/abs/2402.07635)] [[github](https://rruisong.github.io/publications/CoHFF/)]
 + [2023.12] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications [[paper](https://arxiv.org/pdf/2311.17663.pdf)] [[github](https://github.com/haomo-ai/Cam4DOcc)]
-+ [2023.12] COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2312.01919v1.pdf)]
++ [2023.12] PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness [[paper](https://arxiv.org/pdf/2312.02158)] [[github](https://github.com/astra-vision/PaSCo)]
++ [2023.12] COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2312.01919v1.pdf)] [[github](https://github.com/NotACracker/COTR)]
 + [2023.11] SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction [[paper](https://arxiv.org/pdf/2311.12754.pdf)] [[github](https://github.com/huang-yh/SelfOcc)]
 + [2023.06] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation [[paper](https://arxiv.org/pdf/2306.10013.pdf)] [[github](https://github.com/Robertwyq/PanoOcc)]
 + [2023.06] Symphonize 3D Semantic Scene Completion with Contextual Instance Queries [[paper](https://arxiv.org/abs/2306.15670)] [[github](https://github.com/hustvl/Symphonies)]
@@ -57,9 +59,11 @@
 
 ### AAAI
 #### 2025
-[2025.03] M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving [[paper](https://arxiv.org/abs/2503.18100)]
-[2024.12] LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba [[paper](https://arxiv.org/abs/2412.08388)]
++ [2025.03] M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving [[paper](https://arxiv.org/abs/2503.18100)]
++ [2025.01] Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion [[paper](https://arxiv.org/abs/2501.07260)] [[github](https://github.com/xrkong/skimba)]
++ [2024.12] LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba [[paper](https://arxiv.org/abs/2412.08388)]
 + [2024.12] ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction
++ [2024.08] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving [[paper](https://arxiv.org/abs/2408.14197)] [[github](https://github.com/yuyang-cloud/Drive-OccWorld)]
 #### 2024
 + [2023.12] Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence [[paper](https://arxiv.org/abs/2312.08054)]
 + [2023.12] RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation [[paper](https://arxiv.org/abs/2312.11829)]
@@ -76,11 +80,12 @@
 #### 2025
 + [2025.02] OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework [[paper](https://arxiv.org/abs/2502.15180)] [[github](https://github.com/JLChen-C/OccProphet)]
 + [2025.02] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving [[paper](https://arxiv.org/abs/2502.07309)] [[github](https://github.com/getterupper/PreWorld)]
-
++ + [2024.10] DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes [[paper](https://arxiv.org/abs/2410.18084)] [[github](https://github.com/3DTopia/DynamicCity)]
 
 ### ICRA
 #### 2025
 + [2025.03] OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2503.10605)] [[github](https://github.com/ika-rwth-aachen/OCCUQ)]
++ [2025.03] TrackOcc: Camera-based 4D Panoptic Occupancy Tracking [[paper](https://arxiv.org/abs/2503.08471)] [[github](https://github.com/Tsinghua-MARS-Lab/TrackOcc)]
 + [2025.01] SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation [[paper](https://arxiv.org/abs/2501.16684)] [[github](https://github.com/NorthSummer/SliceOcc)]
 + [2024.03] Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models [[paper](https://arxiv.org/abs/2502.06419)]
 + [2024.03] H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision [[paper](https://arxiv.org/abs/2503.04059)]
@@ -95,12 +100,13 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2025.04] LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals [[paper](https://arxiv.org/abs/2504.13596)]
 + [2025.03] SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World [[paper](https://arxiv.org/abs/2503.16399)] [[github](https://github.com/chenchen235/SA-Occ)]
 + [2025.03] L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model [[paper](https://arxiv.org/abs/2503.12369)] [[github](https://github.com/StudyingFuFu/L2COcc)]
 + [2025.03] TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting [[paper](https://arxiv.org/abs/2503.08485)]
 + [2025.03] Learning A Zero-shot Occupancy Network from Vision Foundation Models via Self-supervised Adaptation [[paper](https://arxiv.org/abs/2503.07125)]
 + [2025.03] Temporal Triplane Transformers as Occupancy World Models [[paper](https://arxiv.org/abs/2503.07338)]
-+ [2025.03] TrackOcc: Camera-based 4D Panoptic Occupancy Tracking [[paper](https://arxiv.org/abs/2503.08471)]
++ [2025.03] TrackOcc: Camera-based 4D Panoptic Occupancy Tracking [[paper](https://arxiv.org/abs/2503.08471)] [[github](https://github.com/Tsinghua-MARS-Lab/TrackOcc)]
 + [2025.03] TGP: Two-modal occupancy prediction with 3D Gaussian and sparse points for 3D Environment Awareness [[paper](https://arxiv.org/abs/2503.09941)]
 + [2025.03] Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception [[paper](https://arxiv.org/abs/2501.15394)]
 + [2025.03] Toward-Robust-Camera-based-3D-Occupancy-Prediction-via-Normalization-Perturbation [[github](https://github.com/junghyeon0427/Toward-Robust-Camera-based-3D-Occupancy-Prediction-via-Normalization-Perturbation)]
@@ -144,7 +150,6 @@
 + [2024.10] ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera [[paper](https://arxiv.org/abs/2410.11019)]
 + [2024.10] SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs [[paper](https://arxiv.org/abs/2410.00337)]
 + [2024.10] WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2410.15792)] [[github](https://github.com/LedKashmir/WildOcc)]
-+ [2024.10] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving [[paper](https://arxiv.org/abs/2408.14197)] [[github](https://drive-occworld.github.io/)]
 + [2024.09] OPUS: Occupancy Prediction Using a Sparse Set [[paper](https://arxiv.org/abs/2409.19987)] [[github](https://github.com/jmwang0117/OccRWKV)]
 + [2024.09] OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity [[paper](https://arxiv.org/abs/2409.19987)] [[github](https://github.com/jmwang0117/OccRWKV)]
 + [2024.09] FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving [[paper](https://arxiv.org/abs/2409.15841)]
@@ -154,6 +159,7 @@
 + [2024.09] UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height [[paper](https://arxiv.org/abs/2409.11160)]
 + [2024.09] Online Diffusion-Based 3D Occupancy Prediction at the Frontier with Probabilistic Map Reconciliation [[paper](https://arxiv.org/abs/2409.10681)]
 + [2024.09] OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [[paper](https://arxiv.org/abs/2409.03272)]
++ [2024.08] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving [[paper](https://arxiv.org/abs/2408.14197)] [[github](https://github.com/yuyang-cloud/Drive-OccWorld)]
 + [2024.08] AdaOcc: Adaptive-Resolution Occupancy Prediction [[paper](https://arxiv.org/abs/2408.13454)]
 + [2024.08] Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion [[paper](https://arxiv.org/abs/2408.14846)]
 + [2024.08] GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting [[paper](https://arxiv.org/abs/2408.11447)] [[github](https://github.com/GANWANSHUI/GaussianOcc)]
@@ -163,7 +169,7 @@
 + [2024.08] OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)] [[github](https://github.com/USTCLH/OccMamba)]
 + [2024.07] LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering [[paper](https://arxiv.org/abs/2407.17310)]
 + [2024.07] LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera [[paper](https://arxiv.org/abs/2407.16197)] [[github](https://hr-zju.github.io/LiCROcc/)]
-+ [2024.07] Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction [[paper](https://arxiv.org/abs/2407.07587)] [[github](https://eliliu2233.github.io/letoccflow/)]
++ [2024.07] Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction [[paper](https://arxiv.org/abs/2407.07587)] [[github](https://eliliu2233.github.io/letoccflow/)] [[github](https://github.com/eliliu2233/occ-flow)]
 + [2024.07] Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement [[paper](https://arxiv.org/abs/2407.13155)]
 + [2024.07] Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion [[paper](https://arxiv.org/abs/2407.02077)] [[github](https://github.com/Arlo0o/HTCL)]
 + [2024.07] VEON: Vocabulary-Enhanced Occupancy Prediction [[paper](https://arxiv.org/abs/2407.12294)]
