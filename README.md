@@ -7,8 +7,8 @@
 ### CVPR
 #### 2025
 + [2025.04] GDFusion: Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2504.12959)] [[github](https://github.com/cdb342/GDFusion)]
++ [2025.04] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction [[paper](https://arxiv.org/abs/2504.19749)] [[github](https://github.com/lzzzzzm/STCOcc)]
 + [2025.03] 3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation [[paper](https://arxiv.org/abs/2503.15185)] [[github](https://kuai-lab.github.io/cvpr2025protoocc/)]
-+ [2025.03] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction [[github](https://github.com/lzzzzzm/STCOcc)]
 + [2024.12] GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding [[paper](https://arxiv.org/abs/2412.13193)] [[github](https://github.com/hustvl/GaussTR)]
 + [2024.08] OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)] [[github](https://github.com/USTCLH/OccMamba)]
 #### 2024
@@ -100,7 +100,18 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2025.05] TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy [[paper](https://arxiv.org/abs/2505.12693)]
++ [2025.05] GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention [[paper](https://arxiv.org/abs/2505.10685)] [[github](https://lunarlab-gatech.github.io/GaussianFormer3D/)]
++ [2025.05] Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes [[paper](https://arxiv.org/abs/2505.09562)] [[github](https://github.com/nicolamarinello/OffsetOcc)]
++ [2025.05] 4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision [[paper](https://arxiv.org/abs/2505.13905)] [[github](https://github.com/CLASS-Lab/4D-ROLLS)]
++ [2025.05] Occupancy World Model for Robots [[paper](https://arxiv.org/abs/2505.05512)]
++ [2025.05] OccCylindrical: Multi-Modal Fusion with Cylindrical Representation for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2505.03284)] [[github](https://github.com/DanielMing123/OccCylindrical)]
++ [2025.05] DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion [[paper](https://arxiv.org/abs/2505.01857)]
++ [2025.04] RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots [[paper](https://arxiv.org/abs/2504.14604)]
++ [2025.04] MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2504.15888)]
 + [2025.04] LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals [[paper](https://arxiv.org/abs/2504.13596)]
++ [2025.04] Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection [[paper](https://arxiv.org/abs/2504.04732)] [[github](https://github.com/DanielMing123/Inverse++)]
++ [2025.03] UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving [[paper](https://arxiv.org/abs/2503.24381)] [[github](https://github.com/tasl-lab/UniOcc)]
 + [2025.03] SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World [[paper](https://arxiv.org/abs/2503.16399)] [[github](https://github.com/chenchen235/SA-Occ)]
 + [2025.03] L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model [[paper](https://arxiv.org/abs/2503.12369)] [[github](https://github.com/StudyingFuFu/L2COcc)]
 + [2025.03] TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting [[paper](https://arxiv.org/abs/2503.08485)]
