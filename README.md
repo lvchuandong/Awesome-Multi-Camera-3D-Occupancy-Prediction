@@ -298,3 +298,5 @@
 + [Awesome-occupancy-perception](https://github.com/autodriving-heart/Awesome-occupancy-perception)
 + [awesome-Occupancy-research](https://github.com/keithAND2020/awesome-Occupancy-research)
 + [3D-Occupancy-Perception](https://github.com/HuaiyuanXu/3D-Occupancy-Perception)
++ [Awesome World Models for Autonomous Driving](https://github.com/LMD0311/Awesome-World-Model)
++ [World-Models-Autonomous-Driving-Latest-Survey](https://github.com/HaoranZhuExplorer/World-Models-Autonomous-Driving-Latest-Survey)
