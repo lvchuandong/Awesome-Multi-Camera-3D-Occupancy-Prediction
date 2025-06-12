@@ -6,6 +6,7 @@
 
 ### CVPR
 #### 2025
++ [2025.06] VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction [[paper](https://arxiv.org/abs/2506.05563)] [[github](https://zzy816.github.io/VoxelSplat-Demo/)]
 + [2025.04] GDFusion: Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2504.12959)] [[github](https://github.com/cdb342/GDFusion)]
 + [2025.04] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction [[paper](https://arxiv.org/abs/2504.19749)] [[github](https://github.com/lzzzzzm/STCOcc)]
 + [2025.03] 3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation [[paper](https://arxiv.org/abs/2503.15185)] [[github](https://kuai-lab.github.io/cvpr2025protoocc/)]
@@ -100,6 +101,15 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
++ [2025.06] SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels [[paper](https://arxiv.org/abs/2505.22461)] [[github](https://github.com/ge95net/SHTOcc)]
++ [2025.06] ODG: Occupancy Prediction Using Dual Gaussians [[paper](https://arxiv.org/abs/2506.09417)]
++ [2025.06] BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2506.07002)]
++ [2025.06] S2GO: Streaming Sparse Gaussian Occupancy Prediction [[paper](https://arxiv.org/abs/2506.05473)]
++ [2025.06] VoxDet: Rethinking 3D Semantic Occupancy Prediction as Dense Object Detection [[paper](https://arxiv.org/abs/2506.04623)] [[github](https://github.com/vita-epfl/VoxDet)]
++ [2025.05] DSOcc: Leveraging Depth Awareness and Semantic Aid to Boost Camera-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2505.20951)]
++ [2025.05] See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction [[paper](https://arxiv.org/abs/2505.20641)] [[github](https://github.com/yanzq95/LIAR)]
++ [2025.05] OccLE: Label-Efficient 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2505.20617)]
++ [2025.05] Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving [[paper](https://arxiv.org/abs/2505.23115)]
 + [2025.05] TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy [[paper](https://arxiv.org/abs/2505.12693)]
 + [2025.05] GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention [[paper](https://arxiv.org/abs/2505.10685)] [[github](https://lunarlab-gatech.github.io/GaussianFormer3D/)]
 + [2025.05] Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes [[paper](https://arxiv.org/abs/2505.09562)] [[github](https://github.com/nicolamarinello/OffsetOcc)]
@@ -112,6 +122,7 @@
 + [2025.04] LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals [[paper](https://arxiv.org/abs/2504.13596)]
 + [2025.04] Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection [[paper](https://arxiv.org/abs/2504.04732)] [[github](https://github.com/DanielMing123/Inverse++)]
 + [2025.03] UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving [[paper](https://arxiv.org/abs/2503.24381)] [[github](https://github.com/tasl-lab/UniOcc)]
++ [2025.03] SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion [[paper](https://arxiv.org/abs/2503.16825)] [[github](https://github.com/gxytcrc/SGFormer)]
 + [2025.03] SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World [[paper](https://arxiv.org/abs/2503.16399)] [[github](https://github.com/chenchen235/SA-Occ)]
 + [2025.03] L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model [[paper](https://arxiv.org/abs/2503.12369)] [[github](https://github.com/StudyingFuFu/L2COcc)]
 + [2025.03] TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting [[paper](https://arxiv.org/abs/2503.08485)]
