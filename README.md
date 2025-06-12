@@ -6,7 +6,7 @@
 
 ### CVPR
 #### 2025
-+ [2025.06] VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction [[paper](https://arxiv.org/abs/2506.05563)] [[github](https://zzy816.github.io/VoxelSplat-Demo/)]
++ [2025.06] VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction [[paper](https://arxiv.org/abs/2506.05563)] [[github](https://github.com/ZZY816/VoxelSplat)]
 + [2025.04] GDFusion: Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2504.12959)] [[github](https://github.com/cdb342/GDFusion)]
 + [2025.04] STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction [[paper](https://arxiv.org/abs/2504.19749)] [[github](https://github.com/lzzzzzm/STCOcc)]
 + [2025.03] 3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation [[paper](https://arxiv.org/abs/2503.15185)] [[github](https://kuai-lab.github.io/cvpr2025protoocc/)]
