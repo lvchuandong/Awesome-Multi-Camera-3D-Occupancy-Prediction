@@ -101,11 +101,12 @@
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
 
 ### Arxiv
-+ [2025.06] SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels [[paper](https://arxiv.org/abs/2505.22461)] [[github](https://github.com/ge95net/SHTOcc)]
++ [2025.06] QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2506.10977)] [[github](https://github.com/zuosc19/QuadricFormer)]
 + [2025.06] ODG: Occupancy Prediction Using Dual Gaussians [[paper](https://arxiv.org/abs/2506.09417)]
 + [2025.06] BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction [[paper](https://arxiv.org/abs/2506.07002)]
 + [2025.06] S2GO: Streaming Sparse Gaussian Occupancy Prediction [[paper](https://arxiv.org/abs/2506.05473)]
 + [2025.06] VoxDet: Rethinking 3D Semantic Occupancy Prediction as Dense Object Detection [[paper](https://arxiv.org/abs/2506.04623)] [[github](https://github.com/vita-epfl/VoxDet)]
++ [2025.06] SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels [[paper](https://arxiv.org/abs/2505.22461)] [[github](https://github.com/ge95net/SHTOcc)]
 + [2025.05] DSOcc: Leveraging Depth Awareness and Semantic Aid to Boost Camera-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2505.20951)]
 + [2025.05] See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction [[paper](https://arxiv.org/abs/2505.20641)] [[github](https://github.com/yanzq95/LIAR)]
 + [2025.05] OccLE: Label-Efficient 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2505.20617)]
