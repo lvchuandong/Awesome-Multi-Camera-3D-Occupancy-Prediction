@@ -76,6 +76,7 @@
 + [2023.08] SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection [[paper](https://arxiv.org/abs/2308.13794)] [[github](https://github.com/zhouqiu/SOGDet)]
 
 ### Journal
++ [2026.02] Multi-Resolution Alignment for Voxel Sparsity in Camera-Based 3D Semantic Scene Completion [[paper](https://arxiv.org/abs/2602.03371v1)] [[github](https://github.com/PKU-ICST-MIPL/MRA_TIP)] [IEEE Transactions on Image Processing]
 + [2024.09] OccFusion: Multi-Sensor Fusion Framework for 3D Semantic Occupancy Prediction [[paper](https://ieeexplore.ieee.org/document/10663967)] [IEEE Transactions on Intelligent Vehicles]
 + [2024.06] HybridOcc: NeRF Enhanced Transformer-Based Multi-Camera 3D Occupancy Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/10564099)] [IEEE Robotics and Automation Letters]
 + [2024.03] Co-Occ: Coupling Explicit Feature Fusion With Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction [[paper](https://ieeexplore.ieee.org/abstract/document/10517470)] [IEEE Robotics and Automation Letters]
