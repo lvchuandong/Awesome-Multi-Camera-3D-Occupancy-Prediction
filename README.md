@@ -104,6 +104,9 @@
 + [2023.09] RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision [[paper](https://arxiv.org/abs/2309.09502)] [[github](https://github.com/pmj110119/RenderOcc)]
 
 ### NeurIPS
+#### 2026
++ [2025.12] OccStress: Stress-Testing the 4D Occupancy Forecasting Chain [[paper](https://arxiv.org/abs/2512.15621)] [[github](https://github.com/InSAI-Lab/OccStress)] [[website](https://insailab.org/OccStress/)]
+
 #### 2023
 + [2024.01] POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9e30acdeff572463c1db9b7de59de64c-Paper-Conference.pdf)] [[github](https://github.com/vobecant/POP3D)] [[website](https://vobecant.github.io/POP3D/)]
 + [2023.12] Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cabfaeecaae7d6540ee797a66f0130b0-Paper-Datasets_and_Benchmarks.pdf)] [[github](https://github.com/Tsinghua-MARS-Lab/Occ3D)] [[website](https://tsinghua-mars-lab.github.io/Occ3D/)]
@@ -125,7 +128,6 @@
 + [2025.12] VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion [[paper](https://arxiv.org/abs/2512.18954)]
 + [2025.12] HyGE-Occ: Hybrid View-Transformation with 3D Gaussian and Edge Priors for 3D Panoptic Occupancy Prediction [[paper](https://arxiv.org/abs/2512.19871)]
 + [2025.12] GGenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation [[paper](https://arxiv.org/abs/2512.12751)]
-+ [2025.12] OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence [[paper](https://arxiv.org/abs/2512.15621)] [[github](https://github.com/InSAI-Lab/OccSTeP)]
 + [2025.12] OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective [[paper](https://arxiv.org/abs/2512.20770)] [[github](https://github.com/markus-42/occufly)]
 + [2025.12] OCCDiff: Occupancy Diffusion Model for High-Fidelity 3D Building Reconstruction from Noisy Point Clouds [[paper](https://arxiv.org/abs/2512.08506)]
 + [2025.12] ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation [[paper](https://arxiv.org/abs/2511.15396)]
